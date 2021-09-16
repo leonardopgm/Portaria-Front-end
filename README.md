@@ -1,7 +1,7 @@
 
 # Gerenciamento de portaria - Sobre
 
-Aplicação para gerenciamento de receitas pessoais desenvolvido no curso Ignite da Rocketseat
+Aplicação para auxiliar o gerenciamento da portaria de condomínio.
 
 # Tecnologias
 
