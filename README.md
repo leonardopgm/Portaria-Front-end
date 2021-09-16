@@ -1,24 +1,14 @@
-# appfront
 
-## Project setup
-```
-npm install
-```
+# Gerenciamento de portaria - Sobre
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Aplicação para gerenciamento de receitas pessoais desenvolvido no curso Ignite da Rocketseat
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Tecnologias
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- HTML
+- CSS
+- Vue.js
+- Axios
+- Nodejs
+- MongoDB
+- Typescript
